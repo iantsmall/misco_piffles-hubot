@@ -1,4 +1,4 @@
-Tatsu HuBot
+Misco Piffles HuBot
 ===========
 
 Idea: Setup HuBot inside a Docker container and run it on AWS. Automatically build and deploy it with CirclCI.
